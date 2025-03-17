@@ -59,6 +59,6 @@ while opção != 5:
     #####################################
     # ALUNO: GABRIEL RIBEIRO DOS SANTOS #
     # TURNO: MANHÃ                      #
-    # MATRICULA: 1262327161             #
+    # MATRICULA: -                      #
     # UNIDADE: IBMR BARRA               #
     #####################################
